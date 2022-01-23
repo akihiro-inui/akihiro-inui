@@ -41,6 +41,7 @@
 #### Infrastructure & Pipeline
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://blog.dbi-services.com/wp-insides/uploads/sites/2/2021/03/ansible-logo-768x335.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="40" src="https://miro.medium.com/max/1400/0*_-_uv2RF532xy0pi.png"></code>
 
 #### Platform
