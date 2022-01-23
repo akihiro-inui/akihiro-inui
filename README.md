@@ -15,6 +15,7 @@
 🧑‍💻 Music Information Retrieval  
 🧑‍💻 Natural Language Processing  
 🧑‍💻 Full-stack web application  
+🧑‍💻 iOS application
 
 ### **Languages and Tools**
 #### Backend & Data  
