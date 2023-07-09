@@ -1,12 +1,10 @@
 <a href="https://www.linkedin.com/in/akihiro-inui/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" />
 </a>  
 
 <br>
 
 ### Hi I'm a data scientist based in Copenhagen 👋
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=akihiro-inui&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### My interests / skills
