@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/akihiro-inui/">
-  <img align="left" alt="LinkedIN Logo" width="22px" src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg" />
+  <img align="left" alt="LinkedIN Logo" width="22px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" />
 </a>  
 
 <br>
