@@ -1,7 +1,8 @@
 <a href="https://www.linkedin.com/in/akihiro-inui/">
-  <img align="left" alt="LinkedIN Logo" width=128px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" />
+  <img align="left" alt="LinkedIN Logo" width=64px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" />
 </a>  
 
+<br>
 <br>
 
 ### Hi I'm a data scientist based in Copenhagen 👋
