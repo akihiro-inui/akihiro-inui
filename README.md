@@ -8,13 +8,12 @@
 ### Hi I'm a data scientist based in Copenhagen 👋
 
 
-### My interests / skills
+### My interests/skills
 🧑‍💻 Machine Learning  
 🧑‍💻 Data Engineering  
-🧑‍💻 Audio Digital Signal Processing   
-🧑‍💻 Music Information Retrieval  
+🧑‍💻 Digital Signal Processing   
 🧑‍💻 Natural Language Processing  
-🧑‍💻 A bit of frontend
+🧑‍💻 Mobile Application Development
 
 ### **Languages and Tools**
 #### Backend
