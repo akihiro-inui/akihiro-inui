@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/akihiro-inui/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" />
+  <img align="left" alt="LinkedIN Logo" width="22px" src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg" />
 </a>  
 
 <br>
