@@ -13,7 +13,7 @@
 🧑‍💻 Data Engineering  
 🧑‍💻 Digital Signal Processing   
 🧑‍💻 Natural Language Processing  
-🧑‍💻 Mobile Application Development
+🧑‍💻 Mobile Application Development  
 🧑‍💻 LLM Application Development
 
 ### **Languages and Tools**
