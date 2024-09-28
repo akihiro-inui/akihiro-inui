@@ -5,14 +5,14 @@
 <br>
 <br>
 
-### Hi I'm a data scientist based in Copenhagen 👋
+### Hi I'm a data scientist based in Tokyo 👋
 
 
 ### My interests/skills
 🧑‍💻 Machine Learning  
 🧑‍💻 Data Engineering  
-🧑‍💻 Digital Signal Processing   
 🧑‍💻 Natural Language Processing  
+🧑‍💻 Audio Digital Signal Processing   
 🧑‍💻 Mobile Application Development  
 🧑‍💻 LLM Application Development
 
